@@ -1,0 +1,1 @@
+# resultSchoolLesson1String
